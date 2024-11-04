@@ -1,3 +1,6 @@
+# Temp folder
 /temp
 
+# Distributed bundles
 *.xpi
+*.zip
