@@ -1,4 +1,5 @@
-all: ddg_ai_chat_in_sidebar.xpi ddg_ai_chat_in_sidebar.zip
+#all: ddg_ai_chat_in_sidebar.xpi ddg_ai_chat_in_sidebar.zip
+all: ddg_ai_chat_in_sidebar.xpi
 
 # For upload and distribute to Firefox
 ddg_ai_chat_in_sidebar.xpi: dist/firefox
