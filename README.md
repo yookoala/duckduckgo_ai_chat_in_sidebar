@@ -10,7 +10,8 @@ AI Chat page allow user to use:
 * [Llama 4][llama-4]
 * [Claude Haiku 3.5][claude-haiku-3.5]
 * [o4-mini][chatgpt-o4-mini]
-* [Mixtral Small 3][mistral-small-3]
+* [Mixtral Small 3][mixtral-small-3]
+
 anonymously and free of charge.
 
 This extension allow you to open the DuckDuckGo AI chat interface on the
