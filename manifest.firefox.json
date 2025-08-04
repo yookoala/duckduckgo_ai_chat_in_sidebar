@@ -8,6 +8,14 @@
       "id": "{ddf262fb-721f-419f-85c2-4758156cbeb2}"
     }
   },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+X"
+      },
+      "description": "Toggle sidebar action."
+    }
+  },
   "sidebar_action": {
     "default_title": "DuckDuckGo AI Chat",
     "default_icon": {
