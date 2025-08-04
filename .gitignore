@@ -7,3 +7,4 @@
 # Distributed bundles
 *.xpi
 *.zip
+/dist/
