@@ -11,7 +11,7 @@
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
-        "default": "Ctrl+Shift+X"
+        "default": "Ctrl+Alt+Y"
       },
       "description": "Toggle sidebar action."
     }
