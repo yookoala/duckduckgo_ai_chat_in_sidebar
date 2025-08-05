@@ -1,6 +1,11 @@
 # DuckDuckGo AI Chat Sidebar
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT][badge-mit]][url-mit] [![Firefox Addon][badge-firefox]][url-firefox]
+
+[badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
+[url-mit]: https://opensource.org/licenses/MIT
+[badge-firefox]: https://img.shields.io/badge/Browser-Firefox-blue.svg
+[url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-ai-chat-sidebar/
 
 Running DuckDuckGo AI Chat interface on a sidebar.
 
