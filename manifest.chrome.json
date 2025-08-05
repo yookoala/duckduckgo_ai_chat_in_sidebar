@@ -9,24 +9,23 @@
     }
   },
   "commands": {
-    "_execute_sidebar_action": {
+    "_execute_action": {
       "suggested_key": {
-        "mac": "Command+Alt+Y",
-        "default": "Ctrl+Alt+Y"
+        "mac": "Command+Shift+1",
+        "default": "Ctrl+Shift+1"
       },
       "description": "Toggle sidebar action."
     }
   },
-  "sidebar_action": {
-    "default_title": "DuckDuckGo AI Chat",
-    "default_icon": {
-      "16": "src/icons/icon.svg",
-      "32": "src/icons/icon.svg",
-      "48": "src/icons/icon.svg",
-      "128": "src/icons/icon.svg"
-    },
-    "default_panel": "src/sidebar.html"
+  "action": {
+    "default_title": "Open DuckDuckGo AI Chat Sidebar"
   },
+  "side_panel": {
+    "default_path": "src/sidebar.html"
+  },
+  "permissions": [
+    "sidePanel"
+  ],
   "icons": {
     "16": "src/icons/icon.svg",
     "32": "src/icons/icon.svg",
