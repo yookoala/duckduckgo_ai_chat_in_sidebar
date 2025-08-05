@@ -25,7 +25,7 @@
       "48": "src/icons/icon.svg",
       "128": "src/icons/icon.svg"
     },
-    "default_panel": "src/sidebar.html"
+    "default_panel": "src/sidebar.firefox.html"
   },
   "icons": {
     "16": "src/icons/icon.svg",

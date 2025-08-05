@@ -20,11 +20,15 @@
   "action": {
     "default_title": "Open DuckDuckGo AI Chat Sidebar"
   },
+  "background": {
+    "service_worker": "src/service-worker.chrome.js"
+  },
   "side_panel": {
-    "default_path": "src/sidebar.html"
+    "default_path": "src/sidebar.chrome.html"
   },
   "permissions": [
-    "sidePanel"
+    "sidePanel",
+    "tabs"
   ],
   "icons": {
     "16": "src/icons/icon.svg",
