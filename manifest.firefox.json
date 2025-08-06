@@ -11,8 +11,8 @@
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
-        "mac": "Command+Alt+Y",
-        "default": "Ctrl+Alt+Y"
+        "mac": "Command+Alt+C",
+        "default": "Ctrl+Alt+C"
       },
       "description": "Toggle sidebar action."
     }
