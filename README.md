@@ -4,7 +4,7 @@
 
 [badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
 [url-mit]: https://opensource.org/licenses/MIT
-[badge-firefox]: https://img.shields.io/badge/Browser-Firefox-blue.svg
+[badge-firefox]: https://img.shields.io/badge/Support-Firefox-darkgreen.svg
 [url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-ai-chat-sidebar/
 
 Running [Duck.ai](https://duck.ai) Chat interface on a sidebar.
