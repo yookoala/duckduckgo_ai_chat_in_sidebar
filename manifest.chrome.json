@@ -18,7 +18,7 @@
     }
   },
   "action": {
-    "default_title": "Open DuckDuckGo AI Chat Sidebar"
+    "default_title": "Open Duck.ai Chat Sidebar"
   },
   "side_panel": {
     "default_path": "src/sidebar.html"

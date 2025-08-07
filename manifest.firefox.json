@@ -18,7 +18,7 @@
     }
   },
   "sidebar_action": {
-    "default_title": "DuckDuckGo AI Chat",
+    "default_title": "Duck.ai Chat",
     "default_icon": {
       "16": "src/icons/icon.svg",
       "32": "src/icons/icon.svg",
