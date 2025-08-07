@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Duck.ai Chat Sidebar",
-  "version": "1.4",
+  "version": "1.4.1",
   "description": "(Unofficial) Running ChatGPT, Claude, Llama or Mixtral anonymously on a browser sidebar with Duck.ai, by DuckDuckGo.",
   "browser_specific_settings": {
     "gecko": {
@@ -18,7 +18,7 @@
     }
   },
   "action": {
-    "default_title": "Open DuckDuckGo AI Chat Sidebar"
+    "default_title": "Open Duck.ai Chat Sidebar"
   },
   "side_panel": {
     "default_path": "src/sidebar.html"
