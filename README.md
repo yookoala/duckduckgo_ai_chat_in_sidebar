@@ -7,10 +7,10 @@
 [badge-firefox]: https://img.shields.io/badge/Support-Firefox-darkgreen.svg
 [url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-ai-chat-sidebar/
 
-Running [Duck.ai](https://duck.ai) Chat interface on a sidebar.
+Running [Duck.ai Chat](https://duck.ai) on a sidebar.
 
-Duck.ai is an AI Chat service provided by DuckDuckGo on their website. As of Aug, 2025, the
-AI Chat service allow user to use:
+Duck.ai is an AI Chat service provided by [DuckDuckGo][duckduckgo-about] on their website.
+As of Aug, 2025, the AI Chat service allow user to use:
 * [GPT-4o mini][chatgpt-4o-mini]
 * [Llama 4][llama-4]
 * [Claude Haiku 3.5][claude-haiku-3.5]
@@ -28,6 +28,7 @@ of Duck.ai, you're using AI with no personal data and privacy compromise.
 [claude-haiku-3.5]: https://www.anthropic.com/claude/haiku
 [llama-4]: https://www.llama.com/models/llama-4/
 [mixtral-small-3]: https://mistral.ai/news/mistral-small-3
+[duckduckgo-about]: https://duckduckgo.com/about
 
 
 ## License
